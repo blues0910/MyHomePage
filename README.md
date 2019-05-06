@@ -1,4 +1,13 @@
-## Welcome to Kang Zichen's homepage
+## Welcome to Kang Zichen's Homepage
+
+Phd student
+
+Lab of Nonlinear Systems, Modeling and Optimization,
+Information and Physical Sciences
+Department of Information and Physical Sciences,
+Graduate School of Information Science and Technology,
+Osaka University
+
 
 ## Welcome to GitHub Pages
 
