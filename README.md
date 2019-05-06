@@ -1,4 +1,7 @@
 ## Welcome to Kang Zichen's Homepage
+
+<img src="https://user-images.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/14539282/57233456-a12d1f80-7059-11e9-80ff-1cf9eac0a215.JPG" width="200" height="400" />
+
 ![IMG_2866](https://user-images.githubusercontent.com/14539282/57233456-a12d1f80-7059-11e9-80ff-1cf9eac0a215.JPG)
 
 Phd student
