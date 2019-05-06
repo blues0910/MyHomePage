@@ -1,5 +1,5 @@
 ## Welcome to Kang Zichen's Homepage
-![Kang Zichen](https://github.com/blues0910/MyHomePage/issues/1#issue-440732316)
+![IMG_3441](https://user-images.githubusercontent.com/14539282/57232559-d5074580-7057-11e9-99ea-3259c6aadf47.JPG)
 
 Phd student
 
