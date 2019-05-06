@@ -4,8 +4,7 @@
 
 Phd student
 
-Lab of Nonlinear Systems, Modeling and Optimization,
-Information and Physical Sciences
-Department of Information and Physical Sciences,
-Graduate School of Information Science and Technology,
-Osaka University
+<p>Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences<br />
+Department of Information and Physical Sciences,<br />
+Graduate School of Information Science and Technology,<br />
+Osaka University</p>
