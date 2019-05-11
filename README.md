@@ -14,3 +14,6 @@ Osaka University
 2007-2011 B.S., Applied mathematics, Hefei University of Technology.<br />
 2014-2016 M.S., Information and Physical Sciences, Osaka University.<br />
 2017-present Ph.D, Information and Physical Sciences, Osaka University.<br />
+
+### Work Experience
+2016-2017 Seiko Epson Corporation, as a ui engineer.<br />
