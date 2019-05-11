@@ -3,17 +3,17 @@
 
 ### General Information
 
-康 子辰 (KANG ZICHEN)<br />
-PhD student<br />
-Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences<br />
+<pre>康 子辰 (KANG ZICHEN)</pre>
+<pre>PhD student</pre>
+<pre>Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences<br />
 Department of Information and Physical Sciences,<br />
 Graduate School of Information Science and Technology,<br />
-Osaka University
+Osaka University</pre>
 
 ### Education
-2007.9&sim;2011.6   B.S., Applied mathematics, Hefei University of Technology.<br />
-2014.4&sim;2016.3   M.S., Information and Physical Sciences, Osaka University.<br />
-2017.10&sim;present Ph.D, Information and Physical Sciences, Osaka University.<br />
+<pre>2007.9&sim;2011.6   B.S., Applied mathematics, Hefei University of Technology.</pre>
+<pre>2014.4&sim;2016.3   M.S., Information and Physical Sciences, Osaka University.</pre>
+<pre>2017.10&sim;present Ph.D, Information and Physical Sciences, Osaka University.</pre>
 
 ### Work Experience
-2016.4&sim;2017.9   UI engineer Seiko Epson Corporation.<br />
+<pre>2016.4&sim;2017.9   UI engineer Seiko Epson Corporation.</pre>
