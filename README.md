@@ -4,10 +4,10 @@
 ### General Information
 
 <pre>康 子辰 (KANG ZICHEN)</pre>
-<pre>PhD student</pre>
-<pre>Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences<br />
-Department of Information and Physical Sciences,<br />
-Graduate School of Information Science and Technology,<br />
+<pre>PhD student
+Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences
+Department of Information and Physical Sciences,
+Graduate School of Information Science and Technology,
 Osaka University</pre>
 
 ### Education
