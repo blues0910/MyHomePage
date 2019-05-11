@@ -5,7 +5,6 @@
 
 康 子辰 (KANG ZICHEN)<br />
 PhD student<br />
-
 Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences<br />
 Department of Information and Physical Sciences,<br />
 Graduate School of Information Science and Technology,<br />
