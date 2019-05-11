@@ -11,6 +11,6 @@ Graduate School of Information Science and Technology,<br />
 Osaka University
 
 ### Education
-2007-2011 B.S., Applied mathematics, Hefei University of Technology (USTC).<br />
+2007-2011 B.S., Applied mathematics, Hefei University of Technology.<br />
 2014-2016 M.S., Information and Physical Sciences, Osaka University.<br />
 2017-present Ph.D, Information and Physical Sciences, Osaka University.<br />
