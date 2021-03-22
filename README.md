@@ -24,5 +24,8 @@ Osaka University
 ### Scholarship
 2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp; Monbukagakusho Honors Scholarship for Privately-Financed International Students
 
-### Presentations
+### Project experience
+2018.10&sim;present,  光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術
+
+#### Presentations
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), Nov. 2020.
