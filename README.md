@@ -11,18 +11,18 @@ Graduate School of Information Science and Technology,<br />
 Osaka University
 
 ### Education
-2007.9&sim;2011.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S., Applied mathematics, Hefei University of Technology.<br />
-2014.4&sim;2016.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.S., Information and Physical Sciences, Osaka University.<br />
-2017.10&sim;present&nbsp;Ph.D, Information and Physical Sciences, Osaka University.<br />
+2007.9&sim;2011.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S., Applied mathematics, Hefei University of Technology.<br />
+2014.4&sim;2016.3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S., Information and Physical Sciences, Osaka University.<br />
+2017.10&sim;present &nbsp; Ph.D, Information and Physical Sciences, Osaka University.<br />
 
 ### Work Experience
-2016.4&sim;2017.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI engineer Seiko Epson Corporation.<br />
-2018.4&sim;2019.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
-2019.4&sim;2020.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
-2020.4&sim;2021.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+2016.4&sim;2017.9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UI engineer Seiko Epson Corporation.<br />
+2018.4&sim;2019.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+2020.4&sim;2021.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
 
 ### Scholarship
-2019.4&sim;2020.3, Monbukagakusho Honors Scholarship for Privately-Financed International Students
+2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monbukagakusho Honors Scholarship for Privately-Financed International Students
 
 ### Presentations
 Masaki Nakagawa, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), Nov. 2020.
