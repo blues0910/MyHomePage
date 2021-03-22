@@ -23,3 +23,6 @@ Osaka University
 
 ### Scholarship
 2019.4&sim;2020.3, Monbukagakusho Honors Scholarship for Privately-Financed International Students
+
+### Presentations
+Masaki Nakagawa, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), Nov. 2020.
