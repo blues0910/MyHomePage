@@ -17,3 +17,9 @@ Osaka University
 
 ### Work Experience
 2016.4&sim;2017.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI engineer Seiko Epson Corporation.<br />
+2018.4&sim;2019.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+2019.4&sim;2020.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+2020.4&sim;2021.3, Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.<br />
+
+### Scholarship
+2019.4&sim;2020.3, Monbukagakusho Honors Scholarship for Privately-Financed International Students
