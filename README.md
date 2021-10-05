@@ -34,7 +34,7 @@ Osaka University
 ### Journal Publications
 Optimizing input mask for maximum memory performance of time-delay reservoir subjected to state noise <br />
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
-Nonlinear Theory and Its Applications, IEICE, Vol.E12, No.4, 10 (2021). <br />
+Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). <br />
 
 ### Presentations
-Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), Nov. 2020.
+Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), pp. 263, Nov. 2020.
