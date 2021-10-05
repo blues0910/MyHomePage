@@ -31,7 +31,7 @@ Osaka University
 ### Project experience
 2018.10&sim;present, Research participant, "光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術"
 -->
-### Paper
+### Papers
 Optimizing input mask for maximum memory performance of time-delay reservoir subjected to state noise <br />
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
 Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). <br />
