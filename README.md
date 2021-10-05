@@ -36,7 +36,7 @@ Optimizing input mask for maximum memory performance of time-delay reservoir sub
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
 Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). <br />
 
-An Individual-based Succession Model of Competition and Coexistence between Grass and Trees<br />
+An individual-based succession model of competition and coexistence between grass and trees<br />
 Zichen Kang<br />
 Master's Thesis, Graduate School of Information Science and Technology, Osaka University, June 2016.<br />
  
