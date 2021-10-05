@@ -27,10 +27,10 @@ Osaka University
 
 ### Scholarship
 2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp; Monbukagakusho Honors Scholarship for Privately-Financed International Students
-<!
+<!--
 ### Project experience
 2018.10&sim;present, Research participant, "光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術"
----->
+-->
 ### Journal Publications
 Optimizing input mask for maximum memory performance of time-delay reservoir subjected to state noise <br />
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
