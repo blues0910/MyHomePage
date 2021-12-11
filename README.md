@@ -8,11 +8,7 @@ Death is the moment when the system that maintains the far from equilibrium stat
 ### General Information
 
 康 子辰 (KANG ZICHEN)<br />
-PhD student,<br/>
-Lab of Nonlinear Systems, Modeling and Optimization,Information and Physical Sciences,<br />
-Department of Information and Physical Sciences,<br />
-Graduate School of Information Science and Technology,<br />
-Osaka University
+Ph.D., Information and Physical Sciences, Osaka University, 2022<br />
 
 ### Education
 2007.9&sim;2011.6, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S., Applied mathematics, Hefei University of Technology.<br />
