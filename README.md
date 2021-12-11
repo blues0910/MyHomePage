@@ -17,7 +17,7 @@ Osaka University
 ### Education
 2007.9&sim;2011.6, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S., Applied mathematics, Hefei University of Technology.<br />
 2014.4&sim;2016.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S., Information and Physical Sciences, Osaka University.<br />
-2017.10&sim;present, &nbsp; Ph.D, Information and Physical Sciences, Osaka University.<br />
+2017.10&sim;2022.3, &nbsp; Ph.D, Information and Physical Sciences, Osaka University.<br />
 
 ### Work Experience
 2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer Seiko Epson Corporation.<br />
