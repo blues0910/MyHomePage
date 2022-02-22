@@ -4,6 +4,7 @@ Death is the moment when the system that maintains the far from equilibrium stat
 <!-- 
 <img src="https://user-images.githubusercontent.com/14539282/57233456-a12d1f80-7059-11e9-80ff-1cf9eac0a215.JPG" alt="Kang Zichen's portrait"  width="210" height="280" /> 
 -->
+<img src="https://user-images.githubusercontent.com/14539282/155098315-dc3d1df3-0634-4d48-bd8a-43664bc24d8a.png" alt="homepage_icon"  width="20" height="15" /> https://blues0910.github.io/MyHomePage/<br />
 
 ### General Information
 
@@ -11,11 +12,9 @@ Death is the moment when the system that maintains the far from equilibrium stat
 
 <img src="https://user-images.githubusercontent.com/14539282/155095747-166637ea-3255-431e-8d74-09a98ffe1bf8.jpeg" alt="Phd icon"  width="20" height="15" /> PhD, Information and Physical Sciences, Osaka University, 2022<br />
 
-<img src="https://user-images.githubusercontent.com/14539282/155098315-dc3d1df3-0634-4d48-bd8a-43664bc24d8a.png" alt="homepage_icon"  width="20" height="15" /> https://blues0910.github.io/MyHomePage/<br />
+<img src="https://user-images.githubusercontent.com/14539282/155100359-6952c248-60ed-4225-891f-c0b82562f2c7.jpg" alt="homepage_icon"  width="17" height="15" /> blues0910@hotmail.com<br />
 
-<img src="https://user-images.githubusercontent.com/14539282/155098356-90d4b688-1521-46b0-8035-4d637ae73fc7.jpg" alt="homepage_icon"  width="20" height="15" /> blues0910@hotmail.com<br />
-
-<img src="https://user-images.githubusercontent.com/14539282/155098379-db735e8a-9bed-43cd-9e38-5e9e0a1b6f72.png"  width="20" height="15" /> https://github.com/blues0910<br />
+<img src="https://user-images.githubusercontent.com/14539282/155098379-db735e8a-9bed-43cd-9e38-5e9e0a1b6f72.png"  width="19" height="15" /> https://github.com/blues0910<br />
 
 
 ### Education
