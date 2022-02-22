@@ -27,7 +27,7 @@ Death is the moment when the system that maintains the far from equilibrium stat
 
 ### Work Experience
 <ul>
-<li>2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer Seiko Epson Corporation.<br />
+<li>2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer Seiko Epson Corporation.</li>
 <li>2018.4&sim;2019.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 <li>2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 <li>2020.4&sim;2021.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
