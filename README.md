@@ -31,6 +31,7 @@ Death is the moment when the system that maintains the far from equilibrium stat
 <li>2018.4&sim;2019.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 <li>2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 <li>2020.4&sim;2021.3, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
+<li>2021.4&sim;2022.2, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 </ul>
 
 ### Scholarship
