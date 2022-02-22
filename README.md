@@ -32,6 +32,10 @@ Optimizing input mask for maximum memory performance of time-delay reservoir sub
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
 Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). <br />
 
+Improving noise robustness of time-delay reservoir computing<br />
+Zichen Kang<br />
+PhD Thesis, Graduate School of Information Science and Technology, Osaka University, June 2016.<br />
+
 An individual-based succession model of competition and coexistence between grass and trees<br />
 Zichen Kang<br />
 Master's Thesis, Graduate School of Information Science and Technology, Osaka University, June 2016.<br />
