@@ -44,7 +44,7 @@ Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021)
 
 <li>Improving noise robustness of time-delay reservoir computing<br />
 Zichen Kang<br />
-PhD Thesis, Graduate School of Information Science and Technology, Osaka University, Jan 2022.</li>
+PhD Thesis, Graduate School of Information Science and Technology, Osaka University, January 2022.</li>
 
 <li>An individual-based succession model of competition and coexistence between grass and trees<br />
 Zichen Kang<br />
