@@ -7,10 +7,10 @@ Death is the moment when the system that maintains the far from equilibrium stat
 <!-- 
 https://blues0910.github.io/MyHomePage/<br />
 -->
+
+<h3><b>康 子辰</b> (KANG ZICHEN)</h3>
+
 ### General Information
-
-<b>康 子辰</b> (KANG ZICHEN)<br />
-
 <img src="https://user-images.githubusercontent.com/14539282/155095747-166637ea-3255-431e-8d74-09a98ffe1bf8.jpeg" alt="Phd icon"  width="20" height="15" /> PhD, Information and Physical Sciences, Osaka University, 2022<br />
 
 <img src="https://user-images.githubusercontent.com/14539282/155100359-6952c248-60ed-4225-891f-c0b82562f2c7.jpg" alt="homepage_icon"  width="17" height="15" /> blues0910@hotmail.com<br />
