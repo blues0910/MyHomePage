@@ -8,7 +8,7 @@ Death is the moment when the system that maintains the far from equilibrium stat
 https://blues0910.github.io/MyHomePage/<br />
 -->
 
-<h3><b>康 子辰</b> (KANG ZICHEN)</h3>
+<h4><b>康 子辰</b> (KANG ZICHEN)</h4>
 
 ### General Information
 <img src="https://user-images.githubusercontent.com/14539282/155095747-166637ea-3255-431e-8d74-09a98ffe1bf8.jpeg" alt="Phd icon"  width="20" height="15" /> PhD, Information and Physical Sciences, Osaka University, 2022<br />
