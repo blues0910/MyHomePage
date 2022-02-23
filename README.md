@@ -9,7 +9,7 @@ https://blues0910.github.io/MyHomePage/<br />
 -->
 ### General Information
 
-康 子辰 (KANG ZICHEN)<br />
+<b>康 子辰</b> (KANG ZICHEN)<br />
 
 <img src="https://user-images.githubusercontent.com/14539282/155095747-166637ea-3255-431e-8d74-09a98ffe1bf8.jpeg" alt="Phd icon"  width="20" height="15" /> PhD, Information and Physical Sciences, Osaka University, 2022<br />
 
