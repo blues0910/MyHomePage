@@ -36,7 +36,7 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Project
 <ul>
-<li>2018.10&sim;2022.3, &nbsp;&nbsp;&nbsp;&nbsp; JST CREST</li>
+<li>2018.10&sim;2022.3, &nbsp;&nbsp;&nbsp; <a href="https://www.jst.go.jp/kisoken/crest/project/1111102/1111102_2018.html">JST CREST</a></li>
 </ul>
 
 ### Scholarship
