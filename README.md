@@ -34,6 +34,11 @@ https://blues0910.github.io/MyHomePage/<br />
 <li>2021.4&sim;2022.2, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 </ul>
 
+### Project
+<ul>
+<li>2018.10&sim;2022.3, &nbsp;&nbsp;&nbsp;&nbsp; JST CREST</li>
+</ul>
+
 ### Scholarship
 <ul>
 <li>2019.4&sim;2020.3, &nbsp;&nbsp;&nbsp;&nbsp; Monbukagakusho Honors Scholarship for Privately-Financed International Students</li>
