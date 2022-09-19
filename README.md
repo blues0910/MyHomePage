@@ -32,7 +32,7 @@ https://blues0910.github.io/MyHomePage/<br />
 <li>2022.7&sim;present, &nbsp;&nbsp;&nbsp; Postdoctoral researcher,　Labolatory for Life Integrated Fluid Engineering,  Faculty of Systems Science and Technology, Akita Prefectural University.</li>
 </ul>
 
-### Project
+### Project experience
 <ul>
 <li>2018.10&sim;2022.3, &nbsp;&nbsp;&nbsp; <a href="https://www.jst.go.jp/kisoken/crest/project/1111102/1111102_2018.html">JST CREST</a></li>[光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術]
 </ul>
