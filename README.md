@@ -67,6 +67,8 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
+<li>Zichen Kang, “膨圧による先端成長モデルに基づく形状解析,” 非平衡・多階層・複雑研究会, Aug. 2022.</li>
+
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), pp. 263, Nov. 2020.
  
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Prediction and Dynamical Reconstruction by Coupled Time-Delay Reservoirs,” OACIS symposium, Nov. 2019.</li>
