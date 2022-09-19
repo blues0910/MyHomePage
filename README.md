@@ -27,7 +27,7 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Work Experience
 <ul>
-<li>2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer Seiko Epson Corporation.</li>
+<li>2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer, Seiko Epson Corporation.</li>
 <li>2018.4&sim;2022.2, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
 <li>2022.7&sim;present, &nbsp;&nbsp;&nbsp; Postdoctoral researcher,　Labolatory for Life Integrated Fluid Engineering,  Faculty of Systems Science and Technology, Akita Prefectural University.</li>
 </ul>
