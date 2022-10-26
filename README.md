@@ -67,6 +67,10 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
+<li>松本光梨, 中川朔未, 檜垣匠, 津川暁, 石本志高, 野々山朋信, 康子辰, 田中美虹, 植田美那子, ライブイメージング技術と顕微操作の統合により迫る細胞内ダイナミクス, 日本側物学会, 2022年9月17日.</li>
+
+<li>中川朔未, 植田美那子, 松本光梨, 檜垣匠, 津川暁, 石本志高, 野々山朋信, 康子辰, ライブイメージングに基づいた数理モデル化で迫るシロイヌナズナ受精卵の細胞伸長機構, 日本植物学会, 2022年9月19日.</li>
+
 <li>Zichen Kang, “膨圧による先端成長モデルに基づく形状解析,” 非平衡・多階層・複雑研究会（秋田）, Aug. 2022.</li>
 
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Memory Capacity of Reservoir Computers based on Coupled Time-delay Systems,” Proceedings of the 2020 International Symposium on Nonlinear Theory and its Applications (NOLTA2020), pp. 263, Nov. 2020.
