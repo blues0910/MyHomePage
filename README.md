@@ -52,6 +52,11 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Papers
 <ul>
+ 
+<li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
+Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
+Plant & Cell Physiology (2022). </li>
+ 
 <li>Optimizing input mask for maximum memory performance of time-delay reservoir subjected to state noise <br />
 Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
 Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). </li>
