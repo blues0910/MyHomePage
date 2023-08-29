@@ -55,7 +55,7 @@ https://blues0910.github.io/MyHomePage/<br />
  
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
 Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
-Plant & Cell Physiology (2023). </li>
+Plant & Cell Physiology, pcad020 (2023). </li>
 
 <li>Personalized page-transition recommendation model based on contents and students' logs in digital textbooks <br />
 Zichen Kang, Chengjiu Yin <br />
