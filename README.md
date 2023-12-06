@@ -95,5 +95,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 
 ### Others
 <ul>
-<li>受賞：多細胞CREST領域若手研究者支援「SciFoS (Science For Society)」の2022年度第2期に採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発．</li>
+ 
+<li>受賞：多細胞CREST領域若手研究者支援「SciFoS (Science For Society)」の2022年度第2期に採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発.</li>
+
 </ul>
