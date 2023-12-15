@@ -52,10 +52,14 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Papers
 <ul>
+
+<li>An elasto-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
+Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
+Quantitative Plant Biology, (submitted). </li>
  
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
 Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
-Plant & Cell Physiology, pcad020 (2023). </li>
+Plant & Cell Physiology, 64(11), pp. 1279-1288, pcad020 (2023). </li>
 
 <li>Personalized page-transition recommendation model based on contents and students' logs in digital textbooks <br />
 Zichen Kang, Chengjiu Yin <br />
