@@ -36,11 +36,13 @@ https://blues0910.github.io/MyHomePage/<br />
 <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/areah30-4.html">[Computational Foundation] Technology for Computing Revolution for Society 5.0</a>, <br />
 2018.10&sim;2022.3, <br />
-[光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術]</li>
+Computing Technology Based on Spatiotemporal Dynamics of Photonic Neural Networks <br />
+Research Director：Hideyuki Suzuki</li>
  
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
 2022.7&sim;present, <br />
-[生命情報の低次元化を起点とする多階層モデル駆動型研究戦略の創出]</li>
+Development of novel research strategy that integrates low dimensionalized bioinformation with multilevel modeling <br />
+Research Director：Minako Ueda</li>
 </ul>
 
 ### Scholarship
