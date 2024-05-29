@@ -1,3 +1,5 @@
+<html>
+<head> <meta name="google-site-verification" content="no78QAXCI1LNLC2-bMiiB8aujdWnVEMM85-w9UPlvhc" /></head>
 Life is a chemical system that uses energy to keep itself from reaching chemical equilibrium.<br />
 Death is the moment when the system that maintains the far from equilibrium state ceases existence.
 ## <img src="https://user-images.githubusercontent.com/14539282/155098315-dc3d1df3-0634-4d48-bd8a-43664bc24d8a.png" alt="homepage_icon"  width="30" height="25" /> Welcome to Kang Zichen's Homepage
