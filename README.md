@@ -97,6 +97,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “A reservoir computing model for associative memory,” OACIS symposium, Nov. 2018.</li>
 </ul>
 
+## <img src="https://user-images.githubusercontent.com/14539282/155098315-dc3d1df3-0634-4d48-bd8a-43664bc24d8a.png" alt="homepage_icon"  width="30" height="25" /> Welcome to Kang Zichen's Homepage
 ### Funding
 <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
