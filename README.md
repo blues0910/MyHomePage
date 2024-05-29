@@ -106,6 +106,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 ### Funding
 <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
+Yong Researcher Challenge (YORC), <br />
 Fiscal Year 2024: ¥2,000,000, <br /> 
 Estimation of Difficult-to-Measure Mechanical Parameters of Plant Zygotes Using Reservoir Computing.</li>
 <!-- CREST多細胞領域 定量的解析基盤創出チャレンジ, 2024年度採択（2,000,000円/年）．リザバー計算による植物受精卵の実測困難な力学パラメータの推定. -->
