@@ -96,6 +96,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Prediction and Dynamical Reconstruction by Coupled Time-Delay Reservoirs,” OACIS symposium, Nov. 2019.</li>
  
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “A reservoir computing model for associative memory,” OACIS symposium, Nov. 2018.</li>
+</ul>
 
 ### Funding
 <ul>
