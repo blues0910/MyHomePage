@@ -38,7 +38,8 @@ https://blues0910.github.io/MyHomePage/<br />
 2018.10&sim;2022.3, <br />
 Computing Technology Based on Spatiotemporal Dynamics of Photonic Neural Networks <br />
 Research Director：Hideyuki Suzuki</li>
- 
+ </ul>
+ <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
 2022.7&sim;present, <br />
 Development of novel research strategy that integrates low dimensionalized bioinformation with multilevel modeling <br />
