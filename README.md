@@ -87,7 +87,6 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
-
 <li>康 子辰, 個体ベースモデルによる草と樹木の競争・共存に関する研究, ソフトバイオ研究会, 2022年11月17日.</li>
 
 <li>Zichen Kang, “膨圧による先端成長モデルに基づく形状解析,” 非平衡・多階層・複雑研究会（秋田）, Aug. 2022.</li>
@@ -97,7 +96,6 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “Prediction and Dynamical Reconstruction by Coupled Time-Delay Reservoirs,” OACIS symposium, Nov. 2019.</li>
  
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “A reservoir computing model for associative memory,” OACIS symposium, Nov. 2018.</li>
-</ul>
 
 ### Funding
 <ul>
@@ -105,7 +103,9 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 Yong Researcher Challenge (YORC), <br />
 Fiscal Year 2024: ¥2,000,000, <br /> 
 Estimation of Difficult-to-Measure Mechanical Parameters of Plant Zygotes Using Reservoir Computing.</li>
+</ul>
 
+<ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
 Support for Young Researchers 「SciFoS (Science For Society)」, <br />
 Fiscal Year 2022: ¥100,000, <br /> 
