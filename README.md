@@ -34,10 +34,13 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Project experience
 <ul>
-<li>2018.10&sim;2022.3, &nbsp;&nbsp;&nbsp; <a href="https://www.jst.go.jp/kisoken/crest/project/1111102/1111102_2018.html">JST CREST</a></li>[光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術]
-</ul>
-<ul>
-<li>2022.7&sim;present, &nbsp;&nbsp;&nbsp; <a href="https://www.jst.go.jp/kisoken/crest/project/1111106/1111106_2021.html">JST CREST</a></li>[生命情報の低次元化を起点とする多階層モデル駆動型研究戦略の創出]
+<li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/areah30-4.html">[Computational Foundation] Technology for Computing Revolution for Society 5.0</a>, <br />
+2018.10&sim;2022.3, <br />
+[光ニューラルネットワークの時空間ダイナミクスに基づく計算基盤技術]</li>
+ 
+<li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
+2022.7&sim;present, <br />
+[生命情報の低次元化を起点とする多階層モデル駆動型研究戦略の創出]</li>
 </ul>
 
 ### Scholarship
@@ -100,7 +103,14 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 
 ### Funding
 <ul>
-<li>CREST多細胞領域 定量的解析基盤創出チャレンジ, 2024年度採択（2,000,000円/年）．リザバー計算による植物受精卵の実測困難な力学パラメータの推定.</li>
- 
-<li>CREST多細胞領域 若手研究者支援「SciFoS (Science For Society)」, 2022年度第2期採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発.</li>
+<li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
+Fiscal Year 2024: ¥2,000,000, <br /> 
+Estimation of Difficult-to-Measure Mechanical Parameters of Plant Zygotes Using Reservoir Computing.</li>
+<!-- CREST多細胞領域 定量的解析基盤創出チャレンジ, 2024年度採択（2,000,000円/年）．リザバー計算による植物受精卵の実測困難な力学パラメータの推定. -->
+
+<li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
+Support for Young Researchers 「SciFoS (Science For Society)」, <br />
+Fiscal Year 2022: ¥100,000, <br /> 
+Development of Image Analysis Techniques for Live-Cell Imaging Data.</li>
+<!-- CREST多細胞領域 若手研究者支援「SciFoS (Science For Society)」, 2022年度第2期採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発. -->
 </ul>
