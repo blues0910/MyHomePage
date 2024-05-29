@@ -53,7 +53,7 @@ https://blues0910.github.io/MyHomePage/<br />
 ### Papers
 <ul>
 
-<li>An elasto-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
+<li>A viscoelastic-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
 Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
 Quantitative Plant Biology, (submitted). </li>
  
@@ -98,9 +98,9 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 <li>Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki, “A reservoir computing model for associative memory,” OACIS symposium, Nov. 2018.</li>
 </ul>
 
-### Others
+### Funding
 <ul>
+<li>CREST多細胞領域 定量的解析基盤創出チャレンジ, 2024年度採択（2,000,000円/年）．リザバー計算による植物受精卵の実測困難な力学パラメータの推定.</li>
  
-<li>受賞：多細胞CREST領域若手研究者支援「SciFoS (Science For Society)」の2022年度第2期に採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発.</li>
-
+<li>CREST多細胞領域 若手研究者支援「SciFoS (Science For Society)」, 2022年度第2期採択（100,000円/年）．ライブセルイメージングデータに対する画像解析技術の開発.</li>
 </ul>
