@@ -66,8 +66,8 @@ Quantitative Plant Biology, (submitted). </li>
  
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
 Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
-Plant & Cell Physiology, 64(11), pp. 1279-1288, pcad020 (2023).
- <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2023/8173">秋田県大・東北大共同プレスリリース</a>
+Plant & Cell Physiology, 64(11), pp. 1279-1288, pcad020 (2023). <br />
+<a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2023/8173">秋田県大・東北大共同プレスリリース</a>
 </li>
 
 <li>Personalized page-transition recommendation model based on contents and students' logs in digital textbooks <br />
