@@ -62,7 +62,7 @@ Research Director：Minako Ueda</li>
 
 <li>A viscoelastic-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
 Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
-Quantitative Plant Biology, (submitted). </li>
+Quantitative Plant Biology, 2024(accepted). </li>
  
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
 Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
