@@ -62,7 +62,7 @@ Research Director：Minako Ueda</li>
 
 <li>Temporal changes in surface tension guide microtubule organization and accurate asymmetric division of Arabidopsis zygotes <br />
 Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa, Minako Ueda <br />
-2024 (submitted). </li>
+Nature Communications, 2024 (submitted). </li>
 
 <li>A viscoelastic-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
 Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
