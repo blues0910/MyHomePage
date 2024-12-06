@@ -62,7 +62,7 @@ Research Director：Minako Ueda</li>
 
 <li>Temporal changes in surface tension guide microtubule organization and accurate asymmetric division of Arabidopsis zygotes <br />
 Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa, Minako Ueda <br />
-Nature Communications, 2024 (submitted). </li>
+(submitted). </li>
 
 <li>A viscoelastic-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
 Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
@@ -93,6 +93,18 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
+<li>康子辰, 中川朔未, 松本光梨, 石本志高, 野々山朋信, 花木優河, 津川暁, 植田美那子, Mechanical Feedback Mechanism in the Morphogenesis of Plant Zygotes, 2024JST-多細胞CREST領域会議(静岡県沼津市), 2024年12月.</li>
+ 
+<li>康子辰, 細胞輪郭データおよび粘弾塑性体モデルを基盤とした張力ー微小管相関の発見, 2024JST-多細胞CREST若手の会2024 (KKRホテル金沢), 2024年8月.</li>
+
+<li>康子辰, 機械学習による植物受精卵の力学パラメータ推定, 2024年度バイオメカニクス研究会(角館), 2024年9月19日.</li>
+ 
+<li>康子辰, 形態空間解析による植物細胞のかたちづくりの研究, ソフトバイオ研究会(角館公民館), 2023年11月1日.</li>
+ 
+<li>康子辰, 植物先端成長細胞の形態空間解析, MIMS研究集会（明治大学), 2023年9月13日.</li>
+ 
+<li>康子辰, 弾塑性変形モデルにおける形態-力学-変形の解析, 非平衡・多階層・複雑系研究会（早稲田大学), 2023年8月29日.</li>
+ 
 <li>康 子辰, 個体ベースモデルによる草と樹木の競争・共存に関する研究, ソフトバイオ研究会, 2022年11月17日.</li>
 
 <li>Zichen Kang, “膨圧による先端成長モデルに基づく形状解析,” 非平衡・多階層・複雑研究会（秋田）, Aug. 2022.</li>
