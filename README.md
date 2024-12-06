@@ -93,7 +93,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
-<li>康子辰, 中川朔未, 松本光梨, 石本志高, 野々山朋信, 花木優河, 津川暁, 植田美那子, Mechanical Feedback Mechanism in the Morphogenesis of Plant Zygotes, 2024JST-多細胞CREST領域会議(静岡県沼津市), 2024年12月.</li>
+<li>Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa and Minako Ueda, Mechanical Feedback Mechanism in the Morphogenesis of Plant Zygotes, 2024JST-多細胞CREST領域会議(静岡県沼津市), 2024年12月.</li>
  
 <li>康子辰, 細胞輪郭データおよび粘弾塑性体モデルを基盤とした張力ー微小管相関の発見, 2024JST-多細胞CREST若手の会2024 (KKRホテル金沢), 2024年8月.</li>
 
