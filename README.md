@@ -68,7 +68,7 @@ Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nono
 Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
 Quantitative Plant Biology, 2024;5:e13. doi:10.1017/qpb.2024.13 <br />
 <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2024/8573">秋田県大・東北大共同プレスリリース</a> <br />
-<a href="https://www.nikkei.com/article/DGXZRSP683760_T11C24A2000000/">日経新聞電子版に掲載された</a>
+<a href="https://www.nikkei.com/article/DGXZRSP683760_T11C24A2000000/">日本経済新聞電子版に掲載された</a>
 </li>
 
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
