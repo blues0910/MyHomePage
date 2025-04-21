@@ -121,6 +121,13 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 
 ### Funding
 <ul>
+<li><a href="">Japan Society for the Promotion of Science [JSPS KAKENHI]</a>, <br />
+Grant in Aid for Early-Career Scientists, <br />
+2025~2028: ¥3,700,000, <br /> 
+Mechanistic Insights into Tip-Growing Cell Deformation via a Viscoelastic-Plastic Model and Contour Data.</li>
+</ul>
+
+<ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
 Yong Researcher Challenge (YORC), <br />
 Fiscal Year 2024: ¥2,000,000, <br /> 
