@@ -127,6 +127,7 @@ Grant in Aid for Early-Career Scientists, <br />
 Mechanistic Insights into Tip-Growing Cell Deformation via a Viscoelastic-Plastic Model and Contour Data.</li>
 </ul>
 
+<ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
 Yong Researcher Challenge (YORC), <br />
 Fiscal Year 2025: ¥1,500,000, <br /> 
