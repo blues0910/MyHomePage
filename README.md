@@ -20,9 +20,9 @@ https://blues0910.github.io/MyHomePage/<br />
 
 ### Education
 <ul>
-<li>2007.9&sim;2011.6, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S., Applied mathematics, Hefei University of Technology.</li>
-<li>2014.4&sim;2016.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S., Information and Physical Sciences, Osaka University.</li>
-<li>2017.10&sim;2022.3, &nbsp;&nbsp;&nbsp; Ph.D, Information and Physical Sciences, Osaka University.</li>
+<li>2007.9&sim;2011.6, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S., Applied mathematics, Faculty of Science, Hefei University of Technology.</li>
+<li>2014.4&sim;2016.3, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S., Department of Information and Physical Sciences, Graduate School of Information Science and Technology, The University of Osaka.</li>
+<li>2017.10&sim;2022.3, &nbsp;&nbsp;&nbsp; Ph.D, Department of Information and Physical Sciences, Graduate School of Information Science and Technology, The University of Osaka.</li>
 </ul>
 
 ### Work Experience
