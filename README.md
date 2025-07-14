@@ -129,14 +129,14 @@ Mechanistic Insights into Tip-Growing Cell Deformation via a Viscoelastic-Plasti
 
 <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
-Yong Researcher Challenge (YORC), <br />
+Young Researcher Challenge (YORC), <br />
 Fiscal Year 2025: ¥1,500,000, <br /> 
 Data-Driven Clustering of Multiscale Time-Series to Uncover Plant Zygote Developmental Mechanisms.</li>
 </ul>
 
 <ul>
 <li><a href="https://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/area2019-1.html">[Multicellular interaction] Development of technology platforms for quantitative analysis of spatiotemporal multicellular interaction</a>, <br />
-Yong Researcher Challenge (YORC), <br />
+Young Researcher Challenge (YORC), <br />
 Fiscal Year 2024: ¥2,000,000, <br /> 
 Estimation of Difficult-to-Measure Mechanical Parameters of Plant Zygotes Using Reservoir Computing.</li>
 </ul>
