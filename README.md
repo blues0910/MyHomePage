@@ -60,19 +60,27 @@ Research Director：Minako Ueda</li>
 ### Papers
 <ul>
 
+<li>Inference of mechanical forces through 3D reconstruction of the closing motion in venus flytrap leaves <br />
+Satoru Tsugawa, Hiroki Asakawa, Michiko Hirata, Tomonobu Nonoyama, Zichen Kang, Masatsugu Toyota & Hiraku Suda <br />
+Scientific Report, 15, 24860 (2025). </li>
+
+<li>Agent-based simulation of cortical microtubule band movement in arabidopsis zygotes <br />
+Tomonobu Nonoyama, Zichen Kang, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda & Satoru Tsugawa <br />
+Scientific Report, 15, 25787 (2025). </li>
+
 <li>Temporal changes in surface tension guide microtubule organization and accurate asymmetric division of Arabidopsis zygotes <br />
-Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa, Minako Ueda <br />
+Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa & Minako Ueda <br />
 (Nature Communications, submitted). </li>
 
 <li>A viscoelastic-plastic deformation model of hemispherical tip growth in Arabidopsis zygotes <br />
-Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda, Satoru Tsugawa <br />
+Zichen Kang, Tomonobu Nonoyama, Yukitaka Ishimoto, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda & Satoru Tsugawa <br />
 Quantitative Plant Biology, 2024;5:e13. doi:10.1017/qpb.2024.13 <br />
 <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2024/8573">秋田県大・東北大共同プレスリリース</a> <br />
 <a href="https://www.nikkei.com/article/DGXZRSP683760_T11C24A2000000/">日本経済新聞電子版に掲載された</a>
 </li>
 
 <li>Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote <br />
-Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa, and Minako Ueda <br />
+Zichen Kang, Hikari Matsumoto, Tomonobu Nonoyama, Sakumi Nakagawa, Yukitaka Ishimoto, Satoru Tsugawa & Minako Ueda <br />
 Plant & Cell Physiology, 64(11), pp. 1279-1288, pcad020 (2023). <br />
 <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2023/8173">秋田県大・東北大共同プレスリリース</a>
 </li>
@@ -82,7 +90,7 @@ Zichen Kang, Chengjiu Yin <br />
 2023 International Conference on Artificial Intelligence and Education (ICAIE) (2023).</li>
  
 <li>Optimizing input mask for maximum memory performance of time-delay reservoir subjected to state noise <br />
-Zichen Kang, Sho Shirasaka, and Hideyuki Suzuki <br />
+Zichen Kang, Sho Shirasaka & Hideyuki Suzuki <br />
 Nonlinear Theory and Its Applications, IEICE, Vol. 12, No. 4, pp. 662-673 (2021). </li>
 
 <li>Improving noise robustness of time-delay reservoir computing<br />
