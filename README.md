@@ -66,7 +66,7 @@ Scientific Report, 15, 24860 (2025). </li>
 
 <li>Agent-based simulation of cortical microtubule band movement in arabidopsis zygotes <br />
 Tomonobu Nonoyama, Zichen Kang, Hikari Matsumoto, Sakumi Nakagawa, Minako Ueda & Satoru Tsugawa <br />
-Scientific Report, 15, 25787 (2025). 
+Scientific Report, 15, 25787 (2025). <br />
 <a href="https://www.nikkei.com/article/DGXZRSP694708_Q5A730C2000000/">日本経済新聞電子版に掲載された</a>
 </li>
 
