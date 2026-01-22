@@ -106,6 +106,10 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
  
 ### Presentations
 <ul>
+<li>康子辰, 植物受精卵の半球形態に学ぶコサイン型細胞壁進展性の推定, 日本機械学会M&M2025材料力学カンファレンス, 熊本城ホール, 2025年11月.</li>
+
+<li>康子辰, 植物受精卵の極性成長を再現する粘弾塑性体の力学パラメータの推定, 複雑系研究会, 琉球大学, 2025年11月.</li>
+ 
 <li>Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa and Minako Ueda, Mechanical Feedback Mechanism in the Morphogenesis of Plant Zygotes, 2024JST-多細胞CREST領域会議(静岡県沼津市), 2024年12月.</li>
  
 <li>康子辰, 細胞輪郭データおよび粘弾塑性体モデルを基盤とした張力ー微小管相関の発見, 2024JST-多細胞CREST若手の会2024 (KKRホテル金沢), 2024年8月.</li>
