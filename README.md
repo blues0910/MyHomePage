@@ -64,7 +64,7 @@ Research Director：Minako Ueda</li>
 Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
 The Plant Journal, 125, e70691 (2025). </li>
 
-li>Plausible Driving Forces in Elliptic Droplet Self-propulsion<br />
+<li>Plausible Driving Forces in Elliptic Droplet Self-propulsion<br />
 Yuhei Inoue, Tomonobu Nonoyama, Zichen Kang, Shunsuke Yabunaka & Satoru Tsugawa <br />
 Journal of the Physical Society of Japan, 94, 094001 (2025). </li>
 
