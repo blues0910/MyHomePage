@@ -60,6 +60,14 @@ Research Director：Minako Ueda</li>
 ### Papers
 <ul>
 
+<li>KymoTip: high-throughput characterization of tip-growth dynamics in plant cells<br />
+Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
+The Plant Journal, 125, e70691 (2025). </li>
+
+li>Plausible Driving Forces in Elliptic Droplet Self-propulsion<br />
+Yuhei Inoue, Tomonobu Nonoyama, Zichen Kang, Shunsuke Yabunaka & Satoru Tsugawa <br />
+Journal of the Physical Society of Japan, 94, 094001 (2025). </li>
+
 <li>Inference of mechanical forces through 3D reconstruction of the closing motion in venus flytrap leaves <br />
 Satoru Tsugawa, Hiroki Asakawa, Michiko Hirata, Tomonobu Nonoyama, Zichen Kang, Masatsugu Toyota & Hiraku Suda <br />
 Scientific Report, 15, 24860 (2025). </li>
