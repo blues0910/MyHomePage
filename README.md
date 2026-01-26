@@ -145,7 +145,7 @@ Master's Thesis, Graduate School of Information Science and Technology, Osaka Un
 <ul>
 <li><a href="">Japan Society for the Promotion of Science [JSPS KAKENHI]</a>, <br />
 Grant in Aid for Early-Career Scientists, <br />
-2025~2028: ¥3,700,000, <br /> 
+2025~2028: ¥4,810,000, <br /> 
 Mechanistic Insights into Tip-Growing Cell Deformation via a Viscoelastic-Plastic Model and Contour Data.</li>
 </ul>
 
