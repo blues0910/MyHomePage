@@ -66,7 +66,9 @@ Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nono
 
 <li>KymoTip: high-throughput characterization of tip-growth dynamics in plant cells<br />
 Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
-The Plant Journal, 125, e70691 (2025). </li>
+The Plant Journal, 125, e70691 (2025). 
+<a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2025/9178">秋田県大・東北大共同プレスリリース</a> <br />
+</li>
 
 <li>Plausible Driving Forces in Elliptic Droplet Self-propulsion<br />
 Yuhei Inoue, Tomonobu Nonoyama, Zichen Kang, Shunsuke Yabunaka & Satoru Tsugawa <br />
