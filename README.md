@@ -29,7 +29,8 @@ https://blues0910.github.io/MyHomePage/<br />
 <ul>
 <li>2016.4&sim;2017.9, &nbsp;&nbsp;&nbsp;&nbsp; UI engineer, Seiko Epson Corporation.</li>
 <li>2018.4&sim;2022.2, &nbsp;&nbsp;&nbsp;&nbsp; Teaching assistant for "Information Mathematical Science Seminar",  Information and Physical Sciences, Osaka University.</li>
-<li>2022.7&sim;present, &nbsp;&nbsp;&nbsp; Postdoctoral researcher,  Faculty of Systems Science and Technology, Akita Prefectural University.</li>
+<li>2022.7&sim;2026.3, &nbsp;&nbsp;&nbsp; Postdoctoral researcher,  Faculty of Systems Science and Technology, Akita Prefectural University.</li>
+<li>2026.4&sim;present, &nbsp;&nbsp;&nbsp; Postdoctoral researcher,  Graduate School of Engineering, Hokkaido University.</li>
 </ul>
 
 ### Project experience
@@ -66,7 +67,7 @@ Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nono
 
 <li>KymoTip: high-throughput characterization of tip-growth dynamics in plant cells<br />
 Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
-The Plant Journal, 125, e70691 (2025). 
+The Plant Journal, 125, e70691 (2025). <br />
 <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2025/9178">秋田県大・東北大共同プレスリリース</a> <br />
 </li>
 
