@@ -67,7 +67,7 @@ Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nono
 
 <li>KymoTip: high-throughput characterization of tip-growth dynamics in plant cells<br />
 Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
-The Plant Journal, 125, e70691 (2025). <br />
+The Plant Journal, 125, e70691 (2026). <br />
 <a href="https://www.akita-pu.ac.jp/kenkyuseika/kenkyuseika2025/9178">Press release</a> <br />
 </li>
 
