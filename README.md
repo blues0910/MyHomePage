@@ -63,7 +63,7 @@ Research Director：Minako Ueda</li>
 
 <li>Temporal changes in surface tension guide microtubule organization and accurate asymmetric division of Arabidopsis zygotes <br />
 Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa & Minako Ueda <br />
-(Nature Communications, in press). 
+(Nature Communications, in press). <br />
 <a href="https://sj.jst.go.jp/news/202607/n0702-01k.html">Science Japanに掲載された</a>
 </li>
 
