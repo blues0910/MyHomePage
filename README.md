@@ -63,7 +63,9 @@ Research Director：Minako Ueda</li>
 
 <li>Temporal changes in surface tension guide microtubule organization and accurate asymmetric division of Arabidopsis zygotes <br />
 Zichen Kang, Sakumi Nakagawa, Hikari Matsumoto, Yukitaka Ishimoto, Tomonobu Nonoyama, Yuga Hanaki, Satoru Tsugawa & Minako Ueda <br />
-(Nature Communications, accepted). </li>
+(Nature Communications, in press). 
+<a href="https://sj.jst.go.jp/news/202607/n0702-01k.html">Science Japanに掲載された</a>
+</li>
 
 <li>KymoTip: high-throughput characterization of tip-growth dynamics in plant cells<br />
 Zichen Kang, Yusuke Kimata, Tomonobu Nonoyama, Toru Ikeuchi, Kazuyuki Kuchitsu, Satoru Tsugawa & Minako Ueda<br />
